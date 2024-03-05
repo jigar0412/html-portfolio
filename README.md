@@ -1,2 +1,2 @@
 # html-portfolio
-This is my Birthday Invitation by html file.
+This is Birthday Invitation by html file.
